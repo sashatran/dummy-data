@@ -6,7 +6,8 @@
       "copy": "Sugar redeye id instant id that coffee cup instant so mocha flavour shop sit medium. Sit body siphon, roast galão, ristretto plunger pot so, carajillo est id single origin cinnamon body half and half fair trade coffee strong kopi-luwak. Id french press, brewed turkish ristretto espresso iced fair trade, chicory filter aftertaste, mug, flavour latte mug latte, iced, redeye, cortado as cinnamon blue mountain froth cultivar.",
       "img": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
       "tag": "Productivity",
-      "upvotes": 231
+      "upvotes": 231,
+      "publisher": "Pineapple Studios"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "copy": "Aged iced aroma, as roast, white arabica chicory, robusta, french press grinder beans dripper cortado. Saucer, kopi-luwak fair trade id, americano, bar  espresso beans plunger pot chicory, et, aftertaste shop café au lait mazagran a mocha americano to go java. Barista caffeine and body shop galão, foam, saucer frappuccino affogato, cortado chicory and crema bar.",
       "img": "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
       "tag": "Marketing",
-      "upvotes": 1221
+      "upvotes": 1221,
+      "publisher": "Sushi Inc"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "copy": "Café au lait medium shop steamed skinny beans foam, milk steamed kopi-luwak, aftertaste, cortado carajillo, plunger pot, single origin as cappuccino redeye java plunger pot extra.",
       "img": "https://images.unsplash.com/photo-1485808191679-5f86510681a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
       "tag": "Developer Tools",
-      "upvotes": 561
+      "upvotes": 561,
+      "publisher": "Joja Corp"
     }
   ],
   "comments": [
